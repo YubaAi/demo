@@ -6,4 +6,9 @@ This a just a change
 An update is being added
 
 
+<<<<<<< HEAD
 This is a new update
+=======
+
+This is a very bad update
+>>>>>>> verybad
